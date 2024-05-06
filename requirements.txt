@@ -1,0 +1,6 @@
+requests~=2.31.0
+flask~=3.0.2
+pillow~=10.3.0
+flask_restful
+flask_restful_swagger
+requests
